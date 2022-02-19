@@ -1,24 +1,14 @@
-### Hi there, my name is Vincent 👋
-
-
-:sparkles: I am 20 years old and I am a student of Informatics Engineering at Dian Nuswantoro University :sparkles:
 <br>
-I'm interested in all things about Computer :computer: and Programming (especially Web Programming ⚡)
 
-  <!--
-**vincentmoel/vincentmoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Hi there, my name is Vincent 👋</h3>
+<br>
+<p align="center">
+  :sparkles: I am 20 years old and I am a student of Informatics Engineering at Dian Nuswantoro University :sparkles:
+  <br>
+  I'm interested in all things about Computer :computer: and Programming (especially Web Programming ⚡)
+</p>
+  
+<br>
 
 ## ##
 <br>
@@ -28,3 +18,30 @@ Here are some ideas to get you started:
 </p>
 
 ## ##
+
+
+<br>
+
+<div align="center">
+  <div align="center">
+    Please contact me on :
+  </div>
+  
+  <br>
+  
+  <a href="https://www.linkedin.com/in/vincentmoeljopranoto/" >
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/vincentmoeljopranoto/">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+  </a>
+
+  <a href="mailto:vincentmoeljopranoto@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+  </a>
+  
+  <a href="https://wa.me/6285163121059">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
+  </a>
+</div>
