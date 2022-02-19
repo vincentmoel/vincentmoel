@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Vincent 👋
 
-<!--
+
+:sparkles: I am 20 years old and I am a student of Informatics Engineering at Dian Nuswantoro University :sparkles:
+<br>
+I'm interested in all things about Computer :computer: and Programming (especially Web Programming ⚡)
+
+  <!--
 **vincentmoel/vincentmoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ##
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vincentmoel/github-stats-transparent/output/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/vincentmoel/github-stats-transparent/output/generated/languages.svg" />
+</p>
+
+## ##
