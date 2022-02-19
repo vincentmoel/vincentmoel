@@ -19,7 +19,6 @@
 
 ## ##
 
-
 <br>
 
 <div align="center">
@@ -29,21 +28,9 @@
   
   <br>
   
-  <a href="https://www.linkedin.com/in/vincentmoeljopranoto/" >
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-  </a>
-
-  <a href="https://www.instagram.com/vincent.moel/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-  </a>
-
-  <a href="mailto:vincentmoeljopranoto@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" />
-  </a>
+  [![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vincentmoeljopranoto/)
+  [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/vincent.moel/)
+  [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:vincentmoeljopranoto@gmail.com)
+  [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/6285163121059)
   
-  <a href="https://wa.me/6285163121059">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
-  </a>
 </div>
-
-<br>
