@@ -33,7 +33,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/vincentmoeljopranoto/">
+  <a href="https://www.instagram.com/vincent.moel/">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
   </a>
 
