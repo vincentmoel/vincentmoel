@@ -3,7 +3,7 @@
 <h3 align="center">Hi there, my name is Vincent 👋</h3>
 <br>
 <p align="center">
-  :sparkles: I am 20 years old and I am a student of Informatics Engineering at Dian Nuswantoro University :sparkles:
+  :sparkles: I am 21 years old and I am a student of Informatics Engineering at Dian Nuswantoro University :sparkles:
   <br>
   I'm interested in all things about Computer :computer: and Programming (especially Web Programming ⚡)
 </p>
