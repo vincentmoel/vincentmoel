@@ -5,7 +5,7 @@
 <p align="center">
   :sparkles: I am 21 years old and I am a student of Informatics Engineering at Dian Nuswantoro University :sparkles:
   <br>
-  I'm interested in all things about Computer :computer: and Programming (especially Web Programming ⚡)
+  I'm interested in all things about Computer :computer: and Programming (especially Backend Web Programming ⚡)
 </p>
   
 <br>
