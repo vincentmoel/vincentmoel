@@ -1,11 +1,9 @@
 <br>
 
-<h3 align="center">Hi there, my name is Vincent 👋</h3>
+<h3 align="center">Hi there, I'm Vincent, a passionate 21-year-old Informatics Engineering student at Dian Nuswantoro University. 👋</h3>
 <br>
 <p align="center">
-  :sparkles: I am 21 years old and I am a student of Informatics Engineering at Dian Nuswantoro University :sparkles:
-  <br>
-  I'm interested in all things about Computer :computer: and Programming (especially Backend Web Programming ⚡)
+✨ My world revolves around everything computer-related, from exploring the latest technologies to diving deep into the realm of programming. Specifically, I find myself captivated by the art of Backend Web Programming, where I unleash my creativity to craft robust and efficient solutions. Join me on this exciting journey as we shape the digital landscape together! Let's connect and create something extraordinary. ✨
 </p>
   
 <br>
