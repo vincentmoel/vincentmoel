@@ -2,7 +2,7 @@
 
 <h3 align="center">✨ Welcome ✨</h3>
 <br>
-<p align="center">
+<p align="center" style="padding:30px;">
 Hello! I'm Vincent👋, a 22-year-old student studying Informatics Engineering at Dian Nuswantoro University. My true passion lies in the realm of web development, particularly in the art of Backend Web Development. Through coding and problem-solving, I enjoy creating robust and efficient web solutions that bring ideas to life.
 </p>
   
